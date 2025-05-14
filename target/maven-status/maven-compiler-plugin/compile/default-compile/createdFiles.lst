@@ -1,0 +1,5 @@
+com\avaliacao_java\sccon\controller\PersonController.class
+com\avaliacao_java\sccon\ScconApplication.class
+com\avaliacao_java\sccon\exception\ResourceNotFoundException.class
+com\avaliacao_java\sccon\model\Person.class
+com\avaliacao_java\sccon\service\PersonService.class
